@@ -1,0 +1,2 @@
+web ansible_host=172-31-54-123
+database ansible_host=172-31-57-47
