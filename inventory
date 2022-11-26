@@ -1,2 +1,2 @@
-labsuser ansible_host=172-31-54-123
-labsuser ansible_host=172-31-57-47
+labsuser ansible_host=ip-172-31-54-123
+labsuser ansible_host=ip-172-31-57-47
